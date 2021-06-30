@@ -1,0 +1,14 @@
+var1 = 18
+var2 = 80
+var3 = int(input())
+
+
+if var3>var1:
+    print("You can drive")
+elif var3==var1:
+    print("You should pass a driving test to drive a vehicle")
+
+
+
+else :
+    print("no")
